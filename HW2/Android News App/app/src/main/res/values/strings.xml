@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">javap</string>
+    <string name="your_name">Your Name</string>
+    <string name="your_comments">Your comments</string>
+    <string name="post_comment">Post Comment</string>
+    <string name="empty_field">Empty Field</string>
+    <string name="textview">TextView</string>
+</resources>
